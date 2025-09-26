@@ -1,4 +1,4 @@
-=== mssh: Mega SSH alias manager v0.3 ===
+# === mssh: Mega SSH alias manager v0.3 ===
 
 export MSSH_DB="${MSSH_DB:-$HOME/.zsh/mssh/hosts}"
 
